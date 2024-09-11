@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
-	display:grid;
+	display:flex;
 	grid-template-columns:repeat(2,1fr);
-	grid-template-rows:repeat(2,1fr);
+	
 	
 }
 .item{
